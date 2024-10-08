@@ -1,11 +1,14 @@
 **1890. The Latest Login in 2020**
 
 
-
-Column Name    | Type
-
-user_id        | int
-time_stamp     | datetime
+```sql
++----------------+----------+
+| Column Name    | Type     |
++----------------+----------+
+| user_id        | int      |
+| time_stamp     | datetime |
++----------------+----------+
+```
 
 (user_id, time_stamp) is the primary key (combination of columns with unique values) for this table.
 Each row contains information about the login time for the user with ID user_id.
