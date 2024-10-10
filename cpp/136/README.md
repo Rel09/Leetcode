@@ -18,7 +18,8 @@ Output: 4
 Example 3:
 
 Input: nums = [1]
-Output: 1```
+Output: 1
+```
 
 
 ---

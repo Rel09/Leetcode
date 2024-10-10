@@ -22,7 +22,8 @@ Output: 1
 Example 2:
 
 Input: s = "((("
-Output: 3```
+Output: 3
+```
 
 
 ---
