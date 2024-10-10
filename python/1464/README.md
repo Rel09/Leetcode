@@ -1,10 +1,8 @@
 **1464. Maximum Product of Two Elements in an Array**
 
-Given a binary string s and an integer k, return true if every binary code of length k is a substring of s. Otherwise, return false.
-
 Given the array of integers nums, you will choose two different indices i and j of that array. Return the maximum value of (nums[i]-1)*(nums[j]-1).
 
- 
+
 Example 1:
 ```
 Input: nums = [3,4,5,2]
