@@ -4,6 +4,9 @@
 #include <iomanip>
 #include <iostream>
 
+// this class is not well constructed
+// of course, i would make use of Privates variable, Constructor, Destructor [...]
+// in a real life scenario
 class Solution {
 public:
     struct Event {
@@ -68,9 +71,6 @@ public:
 
 
 // Testing
-
-// For some reason, im getting different result than on leetcode. im not gonna look into it
-// since the problem has been resolved with the same solution
 int main() {
     Solution solution;
 
