@@ -4,9 +4,6 @@
 #include <iomanip>
 #include <iostream>
 
-// this class is not well constructed
-// of course, i would make use of Privates variable, Constructor, Destructor [...]
-// in a real life scenario
 class Solution {
 public:
     struct Event {
