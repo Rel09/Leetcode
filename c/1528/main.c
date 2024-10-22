@@ -21,23 +21,6 @@ char* restoreString(char* s, int* indices, int indicesSize) {
 
 // Testing
 int main() {
-    // Test strings
-    char    *strings[]      = { "abc", "ebc", NULL };
-    int     *intptr[]       = { {2, 1, 0}, {0, 2, 1} };
-    int     indicesSizes[]   = { 3, 3 };
-
-    char    *Expected[]     = { "cba", "ebc" };
-
-    // Loop through each test case
-    for (int i = 0; strings[i]; i++) {
-        printf("%s\n", strings[i]);
-
-        for (int j = 0; j < indicesSizes[i]; j++) {
-            printf("---> %i\n", intptr[i][j]);
-        }
-
-        printf("%i\n", indicesSizes[i]);
-    }
-
+    // Hopefully i dont forget to complete this
     return 0;
 }
